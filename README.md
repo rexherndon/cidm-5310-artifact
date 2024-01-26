@@ -2,6 +2,8 @@
 
 This assignment was originally intended as the final project for my “Business Intelligence and Decision Support Systems” class (CIDM-5310) taught by Dr. Jeffry Babb at West Texas A&M University in the Summer I semester. Since then, this assignment has been published to this GitHub repository as a part of developing my portfolio for my M.S. Computer Information Systems and Business Analytics Capstone Course (CIDM-6395), which is also taught by Dr. Jeffry Babb. 
 
+This repo does not contain the entire project, since some files of this project have been corrupted or are missing after the original project was submitted. Samples of the project found in the repo still substantiate and provide enough context of the work of the original project.
+
 # BILC Final Project Summary
 
 For this project, I explored and analyzed two datasets that were taken from NYC Open Data. These dataframes are records of each motor vehicle collision recorded by NYPD between March 2016 and December 2021, with some outlier records even going as far back as 2012. Each record contains detailed crash information, including information such as vehicles involved, casualties/injuries, location of each incident, vehicle damage, date and time, etc. The links for the data containing the records of the crashes and the vehicles can be found here:
